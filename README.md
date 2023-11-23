@@ -1,7 +1,6 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z6KtD6I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn6uqzoyp087oi6vnn0e.gif)]
+
 <h1 align="center">Hi 👋, I'm Krushika Ramesh</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushikaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="krushikaramesh" /> </p>
 
