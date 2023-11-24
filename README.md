@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif)](https://krushikaramesh.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif)](https://krushikaramesh.io|width:100|height:100)
 <h1 align="center">Hi 👋, I'm Krushika Ramesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
