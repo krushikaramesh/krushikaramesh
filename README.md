@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Krushika Ramesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krushikaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="krushikaramesh" /> </p>
+
+<p align="left"> <a href="https://twitter.com/krushika_ramesh" target="blank"><img src="https://img.shields.io/twitter/follow/krushika_ramesh?logo=twitter&style=for-the-badge" alt="krushika_ramesh" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -25,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushikaramesh&show_icons=true&locale=en" alt="krushikaramesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushikaramesh&" alt="krushikaramesh" /></p>
-
-
